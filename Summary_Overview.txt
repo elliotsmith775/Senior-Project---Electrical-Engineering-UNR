@@ -1,0 +1,24 @@
+Desert Rain is an irrigation controller system primarily intended for residential applications.
+The design includes a control unit to be installed indoors, as well as an expandable stake 
+design with remote stakes transmitting the current soil conditions. The lithium-ion battery
+powered stakes with solar charging circuitry communicate via wireless 2.4GHz mesh networking,
+transmitting the soil moisture content as well as the atmospheric temperature, humidity and pressure 
+measured at each stake. 
+Using the information provided by the stakes, the controller can run
+up to five different sprinkler zones using conventional 24VAC irrigation solenoid valves.
+By monitoring soil status, the irrigation system will optimize watering durations and watering 
+days based on soil moisture data stored over time.  Learning from previous data and assigning the optimal 
+irrigation schedule for maximal growth while decreasing water consumption.  
+The direct advantage of such monitoring will be greater growth coupled with less water usage and
+chemical runoff related to overwatering.  The complete design by G6 Solutions includes custom PCBs 
+for the controllers and stakes, ABS plastic stake housings, and an ABS plastic controller housing
+with user interface and LCD. In a world facing a global drought, DesertRain can help reduce 
+irrigation water waste.
+
+CEO - Kevin Palmer
+CTO - Elliot smith
+CFO - Stefan Lilyhorn
+COO - Keith Renshaw 
+
+University of Nevada, Reno 2014
+Course - EE 491
